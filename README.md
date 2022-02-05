@@ -7,10 +7,10 @@ Inspired by Fireship.io [video](https://www.youtube.com/watch?v=_oHByo8tiEY)
 
 ![example cli quiz](https://user-images.githubusercontent.com/75445926/152659519-a8552b8e-ca15-46cb-8442-f1f7420bb76b.png)
 
-## Will be added to NPX when finished
-Will add a npx command to play the game when finished
+## Run the quiz
+
 ```
-npx ....
+npx f1-cli-quiz
 ```
 
 ## Packages used
